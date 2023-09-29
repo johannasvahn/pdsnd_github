@@ -1,22 +1,21 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# **Exploring Bikeshare data project** 
+Utilizing python to explore bikeshare data 
 
-### Date created
-This project was created during summer 2023
+# **Description**
+The project contains data about bikeshare for three  cities in USA for a certain period of time. The cities are Chicago, Wahsington and New York City. The data shows most popular days for bike usage or which are the most common from and to stations.
 
-### Project Title
-The title of the of the project is Bikeshare
+# **Software requirement**
+For this project Python is required.
+Python 3.8 was used for this excercise.
 
-### Description
-The project contains data about bikeshare for three major cities in USA for a certain period of time.
+# **Data used**
+*chicago.csv* - this files contains data for start and endtime, start and end station, gender, birth year and usertype
+*washington.csv* - this file contains data for start and endtime, start and end station and user type.
+*new_york_csv* - this file contains data for start and endtime, start and end station, gender, birth year and usertype
 
-### Files used
 
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+# **Credits**
+ *Udacity Data Analyst Nanodegree program
 
 ### Documentation
-New branch called documentation created.
-README.md file updated with Bike project instructions
-Exclamation mark added
-Day changed to weekday
+
