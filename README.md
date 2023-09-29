@@ -9,13 +9,15 @@ For this project Python is required.
 Python 3.8 was used for this excercise.
 
 # **Data used**
-*chicago.csv* - this files contains data for start and endtime, start and end station, gender, birth year and usertype
-*washington.csv* - this file contains data for start and endtime, start and end station and user type.
+*chicago.csv* - this files contains data for start and endtime, start and end station, gender, birth year and usertype <br>
+
+*washington.csv* - this file contains data for start and endtime, start and end station and user type. <br>
+
 *new_york_csv* - this file contains data for start and endtime, start and end station, gender, birth year and usertype
 
 
 # **Credits**
- *Udacity Data Analyst Nanodegree program
+Udacity Data Analyst Nanodegree program
 
-### Documentation
+
 
