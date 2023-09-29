@@ -28,14 +28,14 @@ def get_filters():
     while True:
       month = input("\nWhich month would you like to see? January, February, March, April, May, June or 'all' if no preference?\n").title()
       if month not in ('January','February','March','April','May','June','all'):
-        print("Sorry, that was not correct. Can you please try again.")
+        print("Sorry, that was not correct. Can you please try again!")
         continue
       else:
         break
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
     while True:
-      day = input("\nWhich day would like to see? Please enter day like Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday or if no preference put 'all'.\n").title()   
+      day = input("\nWhich weekday would like to see? Please enter day like Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday or if no preference put 'all'.\n").title()   
       if day not in ('Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday', 'all'):   
         print("Please try again, remember to enter a specific weekday correctly or all")
         continue
